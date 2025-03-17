@@ -64,10 +64,4 @@ The project uses a dataset (`clean_data_water_quality_fin.xlsx`) containing wate
    ```
 
 ## Results
-The model achieves competitive accuracy in classifying water samples to their originating sites. The confusion matrix visualization helps in understanding the model's performance across different classes.
-
-## Future Improvements
-- Feature importance analysis to identify key water quality parameters
-- Hyperparameter tuning for improved model performance
-- Exploration of other machine learning algorithms for comparison
-- Time series analysis if temporal data is available
+The model achieves approx. 60% accuracy in classifying water samples to their originating sites. The confusion matrix visualization helps in understanding the model's performance across different classes.
